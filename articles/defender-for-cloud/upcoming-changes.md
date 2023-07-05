@@ -113,7 +113,7 @@ Learn more about [Agentless Containers Posture in Defender CSPM](concept-agentle
 
 ### Business model and pricing updates for Defender for Cloud plans
 
-**Estimated date for change: July 2023**
+**Estimated date for change: August 2023**
 
 Microsoft Defender for Cloud has three plans that offer service layer protection: 
 
